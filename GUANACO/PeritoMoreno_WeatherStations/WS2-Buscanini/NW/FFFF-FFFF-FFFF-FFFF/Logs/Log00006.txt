@@ -1,0 +1,4 @@
+Lib = 0.3.0 SN = FFFF-FFFF-FFFF-FFFF
+Time [UTC], PresOB [mBar], RH_OB [%], TempOB [C], Temp RTC [C], Bat [V], R_u [deg], P_u [deg], UVA_u, UVB_u, White_u, Vis_u [lx], IR_S_u, IR_M_u, PyroT_u [C], R_d [deg], P_d [deg], UVA_d, UVB_d, White_d, Vis_d [lx], IR_S_d, IR_M_d, PyroT_d [C], IR_Long [mV], IR_Long [C], PyrgT [C], NumTicks [Cnt], Wind direction [degrees],Humidity [%], Temp Atmos [C],Distace [mm], Rain bucket tips [0.01in],
+2020/02/20 22:48:03,997.42,20.04,27.52,28.00,2.83,21.36,11.46,1,768,118,0.00,0.00,0.00,27.94,24.72,-4.43,0,0,9,0.00,0.00,0.00,27.89,897.25,24.90,28.06,0,139.14,19.21,26.61,9999,0,
+2020/02/20 22:48:31,997.33,23.39,27.55,28.00,2.82,22.13,10.97,2,1024,125,0.00,0.00,0.00,27.83,27.91,0.00,0,0,13,0.00,0.00,0.00,27.78,896.88,24.88,28.06,0,138.75,19.20,26.47,652,0,

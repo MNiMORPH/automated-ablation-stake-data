@@ -1,0 +1,2 @@
+Lib = 0.3.0 SN = FFFF-FFFF-FFFF-FFFF
+Time [UTC], PresOB [mBar], RH_OB [%], TempOB [C], Temp RTC [C], Bat [V], R_u [deg], P_u [deg], UVA_u, UVB_u, White_u, Vis_u [lx], IR_S_u, IR_M_u, PyroT_u [C], R_d [deg], P_d [deg], UVA_d, UVB_d, White_d, Vis_d [lx], IR_S_d, IR_M_d, PyroT_d [C], IR_Long [mV], IR_Long [C], PyrgT [C], Anemometer speed [rpm],Wind direction [degrees]Humidity [%], Temp Atmos [C],Rain bucket tips [0.01in],
