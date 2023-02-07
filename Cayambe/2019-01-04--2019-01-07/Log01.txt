@@ -1,0 +1,6 @@
+Time [UTC], Temp OB [C], Temp RTC [C], Bat [V], Distace [mm], Pressure Atmos [mBar], Humidity [%], Temp Atmos [C],
+Time [UTC], Temp OB [C], Temp RTC [C], Bat [V], Distace [mm], Pressure Atmos [mBar], Humidity [%], Temp Atmos [C],
+Time [UTC], Temp OB [C], Temp RTC [C], Bat [V], Distace [mm], Pressure Atmos [mBar], Humidity [%], Temp Atmos [C],
+Time [UTC], Temp OB [C], Temp RTC [C], Bat [V], Distace [mm], Pressure Atmos [mBar], Humidity [%], Temp Atmos [C],
+Time [UTC], Temp OB [C], Temp RTC [C], Bat [V], Distace [mm], Pressure Atmos [mBar], Humidity [%], Temp Atmos [C],
+2018/07/27 20:38:05,21.50,24.00,3.21,4979,988.57,51.00,23.80,
