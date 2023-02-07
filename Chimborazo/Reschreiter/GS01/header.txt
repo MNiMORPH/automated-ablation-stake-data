@@ -1,0 +1,7 @@
+UNIX time stamp [s],Thermistor resistivity [Ohm],Temperature [degrees C],Relative humidity sensor voltage output [V],Relative humidity [%],Thermistor resistivity [Ohm],Temperature [degrees C],Inclinometer voltage (x-axis) [V],Inclinometer voltage (y-axis) [V],Inclinometer tilt (x-axis) [degrees],Inclinometer voltage (y-axis) [degrees],Ultrasonic distance to surface [mm],Ultrasonic distance to surface [mm],Ultrasonic distance to surface [mm],Ultrasonic distance to surface [mm],Ultrasonic distance to surface [mm],Ultrasonic distance to surface [mm],Ultrasonic distance to surface [mm],Ultrasonic distance to surface [mm],Ultrasonic distance to surface [mm],Ultrasonic distance to surface [mm],Mean distance to surface [mm],Standard deviation distance to surface [mm]
+
+# NOTE
+# Some glacier stations have incorrect inclinometer equation
+# and need to be fixed -- check revision history for Logger 
+# library (pre-Chimborazo version) if/when this needs to be
+# done.
