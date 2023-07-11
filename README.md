@@ -5,11 +5,21 @@ Data from automated ablation stake installations and some associated weather sta
 
 ## How to cite
 
-### Purely this data set
+### This data set
 
-*Cite this when simply downloading and working with these raw data and/or code.*
+*Cite this when simply downloading and working with these raw data and/or code. Also cite the following papers below, as apprpriate, depending on which data set you are using.*
 
 **Wickert, A. D., Romero, M., Barnhart, K. R., Armstrong, W. H., Ng, G. C., McLaughlin, R. T., Schulz, B., Sandell, C. T., Witte, L., Carnevale, I., Chang, E., Decker, C., Fogel, J., La Frenierre, J., MacGregor, K. R., Martinez, G., Penprase, S. P., Punina, L., Roberti, G., Tamburini Beliveau, G., Van Wyk de Vries, M., Wickert, P. D., & Wickert, S. E. (2023). Automated Ablation Stake Data; Code and Associated Weather-station Data Included (Version 1.0.0, Release Candidate 1) [Data set]. https://doi.org/10.5281/zenodo.7615567**
+
+### Kennicott Glacier
+
+#### Data
+
+**Wickert, A. D. (2014). The ALog: inexpensive, open-source, automated data collection in the field. *Bulletin of the Ecological Society of America*, *95*(2), 166-176.**
+
+#### Field Campaign
+
+**Armstrong, W. H., & Anderson, R. S. (2020). Ice-marginal lake hydrology and the seasonal dynamical evolution of Kennicott Glacier, Alaska. *Journal of Glaciology*, *66*(259), 699-713.**
 
 ### Context, melt models, and data-collection hardware
 
