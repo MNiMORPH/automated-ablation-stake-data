@@ -11,21 +11,35 @@ Data from automated ablation stake installations and some associated weather sta
 
 **Wickert, A. D., Romero, M., Barnhart, K. R., Armstrong, W. H., Ng, G. C., McLaughlin, R. T., Schulz, B., Sandell, C. T., Witte, L., Carnevale, I., Chang, E., Decker, C., Fogel, J., La Frenierre, J., MacGregor, K. R., Martinez, G., Penprase, S. P., Punina, L., Roberti, G., Tamburini Beliveau, G., Van Wyk de Vries, M., Wickert, P. D., & Wickert, S. E. (2023). Automated Ablation Stake Data; Code and Associated Weather-station Data Included (Version 1.0.0, Release Candidate 1) [Data set]. https://doi.org/10.5281/zenodo.7615567**
 
-### Kennicott Glacier
-
-#### Data
-
-**Wickert, A. D. (2014). The ALog: inexpensive, open-source, automated data collection in the field. *Bulletin of the Ecological Society of America*, *95*(2), 166-176.**
-
-#### Field Campaign
-
-**Armstrong, W. H., & Anderson, R. S. (2020). Ice-marginal lake hydrology and the seasonal dynamical evolution of Kennicott Glacier, Alaska. *Journal of Glaciology*, *66*(259), 699-713.**
-
 ### Context, melt models, and data-collection hardware
 
 *Additionally, cite the following for any case in which you discuss these data in connection with developing ablation models, consider the hardware required to gather the data, or consider their broader glaciological context in a way that is relevant to the following reference.*
 
 **Wickert, A. D., K. R. Barnhart, W. H. Armstrong M. Romero, B. Schulz C. T. Sandell, S. B. Penprase, M. Van Wyk de Vries, G. H. C. Ng, J. La Frenierre, and K. R. MacGregor (submitted, 2023), Open-source Automated Ablation Stakes to Constrain Temperature-index Melt Models, *Annals of Glaciology*.**
+
+### Kennicott Glacier
+
+#### Data
+
+**Wickert, A. D. (2014). The ALog: inexpensive, open-source, automated data collection in the field. *Bulletin of the Ecological Society of America*, *95*(2), 166-176. doi:10.1890/0012-9623-95.2.68.**
+
+#### Field Campaign
+
+**Armstrong, W. H., & Anderson, R. S. (2020). Ice-marginal lake hydrology and the seasonal dynamical evolution of Kennicott Glacier, Alaska. *Journal of Glaciology*, *66*(259), 699-713. doi:10.1017/jog.2020.41.**
+
+### Chimborazo
+
+#### Deployment
+
+**Tauro, F., Selker, J., van de Giesen, N., Abrate, T., Uijlenhoet, R., Porfiri, M., et al. (2018). Measurements and Observations in the XXI century (MOXXI): innovation and multi-disciplinarity to sense the hydrological cycle. *Hydrological Sciences Journal*, *63*(2), 169–196. doi:10.1080/02626667.2017.1420191.**
+
+#### Data and data loggers
+
+**Wickert, A. D., Sandell, C. T., Schulz, B., & Ng, G.-H. C. (2019). Open-source Arduino-compatible data loggers designed for field research. Hydrology and Earth System Sciences, 23(4), 2065–2076. doi:10.5194/hess-23-2065-2019.**
+
+#### Field site and context
+
+**Saberi, L., McLaughlin, R. T., Crystal Ng, G.-H., La Frenierre, J., Wickert, A. D., Baraer, M., et al. (2019). Multi-scale temporal variability in meltwater contributions in a tropical glacierized watershed. *Hydrology and Earth System Sciences*, *23*(1), 405–425. doi:hess-23-405-2019.**
 
 ## Data summary
 
