@@ -9,7 +9,7 @@ Data from automated ablation stake installations and some associated weather sta
 
 *This would be for cases of simply grabbig some raw data and working with them*
 
-**Wickert, A. D., Romero, M., Barnhart, K. R., Armstrong, W. H., Ng, G. C., McLaughlin, R. T., Schulz, B., Sandell, C. T., Witte, L., Carnevale, I., Chang, E., Decker, C., Fogel, J., La Frenierre, J., MacGregor, K. R., Martinez, G., Penprase, S. P., Punina, L., Roberti, G., Tamburini Beliveau, G., Van Wyk de Vries, M., Wickert, P. D., & Wickert, S. E. (2023). Automated Ablation Stake Data; Code and Associated Weather-station Data Included (Version 1.0.0, Release Candidate 1). https://doi.org/10.5281/zenodo.7615567**
+**Wickert, A. D., Romero, M., Barnhart, K. R., Armstrong, W. H., Ng, G. C., McLaughlin, R. T., Schulz, B., Sandell, C. T., Witte, L., Carnevale, I., Chang, E., Decker, C., Fogel, J., La Frenierre, J., MacGregor, K. R., Martinez, G., Penprase, S. P., Punina, L., Roberti, G., Tamburini Beliveau, G., Van Wyk de Vries, M., Wickert, P. D., & Wickert, S. E. (2023). Automated Ablation Stake Data; Code and Associated Weather-station Data Included (Version 1.0.0, Release Candidate 1) [Data set]. https://doi.org/10.5281/zenodo.7615567**
 
 ### This data set + supporting information for construction and analysis
 
