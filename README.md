@@ -21,25 +21,39 @@ Data from automated ablation stake installations and some associated weather sta
 
 #### Data
 
-**Wickert, A. D. (2014). The ALog: inexpensive, open-source, automated data collection in the field. *Bulletin of the Ecological Society of America*, *95*(2), 166-176. https://doi.org/10.1890/0012-9623-95.2.68.**
+**Wickert, A. D. (2014). The ALog: inexpensive, open-source, automated data collection in the field. *Bulletin of the Ecological Society of America*, *95*(2), 166-176. https://doi.org/10.1890/0012-9623-95.2.68**
 
 #### Field Campaign
 
-**Armstrong, W. H., & Anderson, R. S. (2020). Ice-marginal lake hydrology and the seasonal dynamical evolution of Kennicott Glacier, Alaska. *Journal of Glaciology*, *66*(259), 699-713. https://doi.org/10.1017/jog.2020.41.**
+**Armstrong, W. H., & Anderson, R. S. (2020). Ice-marginal lake hydrology and the seasonal dynamical evolution of Kennicott Glacier, Alaska. *Journal of Glaciology*, *66*(259), 699-713. https://doi.org/10.1017/jog.2020.41**
 
 ### Chimborazo
 
 #### Deployment
 
-**Tauro, F., Selker, J., van de Giesen, N., Abrate, T., Uijlenhoet, R., Porfiri, M., et al. (2018). Measurements and Observations in the XXI century (MOXXI): innovation and multi-disciplinarity to sense the hydrological cycle. *Hydrological Sciences Journal*, *63*(2), 169–196. https://doi.org/10.1080/02626667.2017.1420191.**
+**Tauro, F., Selker, J., van de Giesen, N., Abrate, T., Uijlenhoet, R., Porfiri, M., et al. (2018). Measurements and Observations in the XXI century (MOXXI): innovation and multi-disciplinarity to sense the hydrological cycle. *Hydrological Sciences Journal*, *63*(2), 169–196. https://doi.org/10.1080/02626667.2017.1420191**
 
 #### Data and data loggers
 
-**Wickert, A. D., Sandell, C. T., Schulz, B., & Ng, G.-H. C. (2019). Open-source Arduino-compatible data loggers designed for field research. Hydrology and Earth System Sciences, 23(4), 2065–2076. https://doi.org/10.5194/hess-23-2065-2019.**
+**Wickert, A. D., Sandell, C. T., Schulz, B., & Ng, G.-H. C. (2019). Open-source Arduino-compatible data loggers designed for field research. Hydrology and Earth System Sciences, 23(4), 2065–2076. https://doi.org/10.5194/hess-23-2065-2019**
 
 #### Field site and context
 
-**Saberi, L., McLaughlin, R. T., Crystal Ng, G.-H., La Frenierre, J., Wickert, A. D., Baraer, M., et al. (2019). Multi-scale temporal variability in meltwater contributions in a tropical glacierized watershed. *Hydrology and Earth System Sciences*, *23*(1), 405–425. https://doi.org/hess-23-405-2019.**
+**Saberi, L., McLaughlin, R. T., Crystal Ng, G.-H., La Frenierre, J., Wickert, A. D., Baraer, M., et al. (2019). Multi-scale temporal variability in meltwater contributions in a tropical glacierized watershed. *Hydrology and Earth System Sciences*, *23*(1), 405–425. https://doi.org/hess-23-405-2019**
+
+### Perito Moreno
+
+#### Data
+
+**Wickert, A. D., K. R. Barnhart, W. H. Armstrong M. Romero, B. Schulz C. T. Sandell, S. B. Penprase, M. Van Wyk de Vries, G. H. C. Ng, J. La Frenierre, and K. R. MacGregor (submitted, 2023), Open-source Automated Ablation Stakes to Constrain Temperature-index Melt Models, *Annals of Glaciology*.**
+
+#### Ablation Stake Placement and On-ice Transport
+
+**Van Wyk de Vries, M., & Wickert, A. D. (2021). Glacier Image Velocimetry: an open-source toolbox for easy and rapid calculation of high-resolution glacier velocity fields. *The Cryosphere*, *15*(4), 2115–2132. https://doi.org/10.5194/tc-15-2115-2021**
+
+### Fourcade
+
+**Romero, M., Wickert, A. D., MacGregor, K. R., Van Wyk de Vries, M. S., Penprase, S. B., Carnevale, I., et al. (2022). Investigating Glacier Mass Loss in the South Shetland Islands Using Open-source Data Loggers and Off-the-shelf Sensors. AGU Fall Meeting, H52O-0652, Chicago, IL, USA.**
 
 ## Data summary
 
