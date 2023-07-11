@@ -7,11 +7,11 @@ Data from automated ablation stake installations and some associated weather sta
 
 ### Purely this data set
 
-*Cite this when simply downloading and working with these raw data *
+*Cite this when simply downloading and working with these raw data and/or code.*
 
 **Wickert, A. D., Romero, M., Barnhart, K. R., Armstrong, W. H., Ng, G. C., McLaughlin, R. T., Schulz, B., Sandell, C. T., Witte, L., Carnevale, I., Chang, E., Decker, C., Fogel, J., La Frenierre, J., MacGregor, K. R., Martinez, G., Penprase, S. P., Punina, L., Roberti, G., Tamburini Beliveau, G., Van Wyk de Vries, M., Wickert, P. D., & Wickert, S. E. (2023). Automated Ablation Stake Data; Code and Associated Weather-station Data Included (Version 1.0.0, Release Candidate 1) [Data set]. https://doi.org/10.5281/zenodo.7615567**
 
-### Data context, melt models, and data-collection hardware
+### Context, melt models, and data-collection hardware
 
 *Additionally, cite the following for any case in which you discuss these data in connection with developing ablation models, consider the hardware required to gather the data, or consider their broader glaciological context in a way that is relevant to the following reference.*
 
